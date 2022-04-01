@@ -6,4 +6,4 @@ The following is a set of guidelines for contributing to this project. These are
 
 ## Deploying
 
-For general deploy, please refer to (/docs/deploy.md)
+For general deploy, please refer to [/docs/deploy.md](/docs/deploy.md)
