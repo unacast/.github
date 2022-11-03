@@ -1,3 +1,6 @@
+As a 
+I want to
+So that
 
 ---
 <!-- Please fill in your description above the --- -->
